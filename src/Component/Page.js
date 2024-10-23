@@ -77,10 +77,6 @@ function Page() {
             </div>
 
 
-
-
-
-
         </div>
     )
 }
